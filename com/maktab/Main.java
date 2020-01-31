@@ -4,7 +4,7 @@ import com.maktab.entitiy.Person;
 import com.maktab.entitiy.Student;
 
 /*
- * author M.Madanipour
+ * @author M.Madanipour
  */
 public class Main {
 
